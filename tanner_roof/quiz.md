@@ -1,12 +1,12 @@
-1.
+1. c. padding
 
 2. b. 2px + 10px + 421px + 10px + 2px
 
 3. a. 528px
 
-4. c. 10px + 421px + 20px + 2px + 10px
+4. e. 421px
 
-5. c. 552px
+5. a. 400px
 
 6. a. float: left on the image
 
