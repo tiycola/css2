@@ -1,0 +1,39 @@
+html {
+  height:375px;
+  width:612px;
+}
+
+body {
+  line-height: 20px;
+  word-spacing: -5px;
+  font-size: 10px;
+  padding: 10px;
+}
+
+.top, .left, .center, .right, .bottom {
+  border-style: solid;
+  border-width: 3px;
+  border-color: red;
+  display: inline-block;
+  padding: 5px;
+}
+
+.top {
+  width: 100%;
+}
+
+.left {
+  width: 26%;
+}
+
+.center {
+  width: 40%;
+}
+
+.right {
+  width: 26%;
+}
+
+.bottom {
+  width: 100%;
+}
