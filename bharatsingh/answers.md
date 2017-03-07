@@ -4,7 +4,7 @@
 4. e
 5. a
 6. a
-7. d? Thought it was clear: both
+7. d
 8. b
 9. c.
 
