@@ -1,0 +1,42 @@
+.top {
+    border: 2px solid red;
+    display:block;
+    padding: 10px;
+    
+    clear:both;
+}
+
+.left {
+    border: 2px solid red;
+    padding: 10px;
+    float: left;
+    width: 250px;
+}
+
+.center {
+    border: 2px solid red;
+    padding: 10px;
+    display: inline-block;
+    width: 500px;
+    float:left;
+}
+
+.right {
+    border: 2px solid red;
+    padding: 10px;
+    float: right;
+    width: 250px;
+}
+
+
+.bottom {
+    border: 2px solid red!important;
+    padding: 10px;
+    
+    clear: both;
+}
+
+body {
+    width: 1072px;
+
+    }
